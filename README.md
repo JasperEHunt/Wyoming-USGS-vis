@@ -2,7 +2,9 @@
 The goal of Wyoming-USGS-vis is to provide examples of GIS data visualisations,
 using publicly accessible data from the USGS Science Data Catalog and other data sources.
 
-<img src="outputs/cottontaildist_modified.png" width="75%" style="display: block; margin: auto;" />
+<img src="outputs/cottontaildist_modified.png" alt="Cottontail rabbit distribution in Wyoming, ca. 2011" width="75%" style="display: block; margin: auto;" />
+
+<img src="outputs/AET_timelapse.gif" alt="A timelapse of evapotranspiration data in Wyoming" width="75%" style="display: block; margin: auto;" />
 
 ## About the data
 
