@@ -1,5 +1,5 @@
 # Wyoming-USGS-vis
-The goal of Wyoming-USGS-vis is to provide examples of GIS data visualisations,
+The goal of the Wyoming-USGS-vis project is to provide examples of GIS data visualisations,
 using publicly accessible data from the USGS Science Data Catalog and other data sources.
 
 <img src="outputs/cottontaildist_modified.png" alt="Cottontail rabbit distribution in Wyoming, ca. 2011" width="75%" style="display: block; margin: auto;" />
@@ -48,7 +48,7 @@ Note that `AET_sampleframe.png` is one of many PNG files produced by the
 post-processing in graphics software to identify the limits of the study area. The 
 raw output of the `cottontail_map.R` script can be seen in `cottontaildist.png`.
 
-## Acknowledgements and contact information
+## Acknowledgements and contact
 
 Again, I am grateful to the researchers who share their data sets to make projects 
 like this possible. I would also like to acknowledge a LinkedIn post by 
