@@ -8,7 +8,7 @@ library(ggplot2)
 library(gganimate)
 
 # Define working directory
-dir = "path/to/directory"
+dir = "path/to/directory/"
 
 # Get all .tif file names, including full paths
 years <- list.files(path = paste(dir, "extracted", sep=""), pattern = "\\.tif$", 
